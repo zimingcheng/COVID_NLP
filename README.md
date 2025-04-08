@@ -1,3 +1,5 @@
+# Natural Language Processing Analyses on the Autobiographical Memory of COVID-19 From 2020 to 2022
+
 Autobiographical memory, the recollection of personal experiences, has been a challenging area of study due to the inherent idiosyncrasy and subjectivity of individual memories.
 
 This project addresses these challenges by focusing on a shared global experience: the COVID-19 pandemic. We collected narratives from participants across the globe, documenting their personal and collective experiences of the pandemic from 2020 to 2022. By focusing on a shared event, we aimed to reduce the idiosyncrasy inherent in autobiographical memory research, allowing for more robust comparisons between individuals and across time.
